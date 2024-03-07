@@ -13,6 +13,7 @@ The goal of this project is to build a Machine Learning model that can classify 
 ### 3. Model Training and Evaluating
 - Train a SVM model using RBF Kernel
 - Evaluate Model performance with accuracy score using the Test set.
+- The model achieved 0.978 Accuracy Score on validation (Test) set.
 ### 4. Object Detection
 - Define a sliding window (w, h). Then slide this window through each input pixel of the image from left to right and top to botttom.
 - With each slide, input the recorded frame into the sign classification model to determine whether this window contains a traffic sign or not.
